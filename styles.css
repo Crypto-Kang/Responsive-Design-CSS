@@ -12,7 +12,7 @@
 head {
     box-sizing: border-box;
 }
-
+/*can use code bellow or use above code for border-box  */
 *,
 *::before,
 *::after {
